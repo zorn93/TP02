@@ -64,3 +64,5 @@ Git par la pratique
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
 * LIN Olivier.
+
+* Gabrielle LEUNG.
